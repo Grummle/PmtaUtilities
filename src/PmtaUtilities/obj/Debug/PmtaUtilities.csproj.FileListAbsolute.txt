@@ -1,0 +1,7 @@
+C:\My Dropbox\Documents\Code\PmtaUtilities\src\PmtaUtilities\bin\Debug\PmtaUtilities.dll
+C:\My Dropbox\Documents\Code\PmtaUtilities\src\PmtaUtilities\bin\Debug\PmtaUtilities.pdb
+C:\My Dropbox\Documents\Code\PmtaUtilities\src\PmtaUtilities\bin\Debug\nunit.framework.dll
+C:\My Dropbox\Documents\Code\PmtaUtilities\src\PmtaUtilities\bin\Debug\Sprache.dll
+C:\My Dropbox\Documents\Code\PmtaUtilities\src\PmtaUtilities\obj\Debug\ResolveAssemblyReference.cache
+C:\My Dropbox\Documents\Code\PmtaUtilities\src\PmtaUtilities\obj\Debug\PmtaUtilities.dll
+C:\My Dropbox\Documents\Code\PmtaUtilities\src\PmtaUtilities\obj\Debug\PmtaUtilities.pdb

@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="DE788226-0EBC-490B-A149-C92ADF91D24F" ModuleId="PmtaUtilities" />
+  <Module PersistentId="E21F2A1D-7140-45A6-873D-EB56488788BA" ModuleId="Tests" />
+</Modules>

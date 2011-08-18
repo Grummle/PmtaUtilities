@@ -1,0 +1,74 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/d:Dummy Data/f:status.xml" caret="2818" fromTop="16" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:XML/f:Job.cs" caret="276" fromTop="10" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/f:XMLParsingTests.cs" caret="12482" fromTop="32" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/d:Dummy Data/f:jobs.xml" caret="34107" fromTop="71" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/f:Entrdy.txt" caret="0" fromTop="0" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:XML/d:Filler/f:JobFiller.cs" caret="249" fromTop="10" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:XML/d:Filler/f:StatusFiller.cs" caret="193" fromTop="3" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:XML/f:Status.cs" caret="603" fromTop="17" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Configuration/f:Configuration.cs" caret="747" fromTop="23" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Server/f:HttpServerLoader.cs" caret="1154" fromTop="31" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Server/f:VirtualMtaPool.cs" caret="326" fromTop="13" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Server/f:VirtualMta.cs" caret="502" fromTop="20" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/d:Dummy Data/f:Vmta.txt" caret="166" fromTop="3" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/d:Dummy Data/f:Vmtas.txt" caret="1080" fromTop="39" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Configuration/d:Parser/f:PmtaParser.cs" caret="3920" fromTop="38" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/f:config.dat" caret="105312" fromTop="14" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Server/f:Server.cs" caret="2474" fromTop="22" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/f:ServerTests.cs" caret="300" fromTop="4" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/f:ParserTests.cs" caret="4956" fromTop="68" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Server/f:Server.cs" caret="2453" fromTop="18" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Server/f:Server.cs" caret="553" fromTop="19" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Server/f:Server.cs" caret="2453" fromTop="44" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Server/f:Server.cs" caret="1669" fromTop="20" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Server/f:Server.cs" caret="2344" fromTop="32" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/f:ServerTests.cs" caret="1954" fromTop="25" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/f:ServerTests.cs" caret="320" fromTop="7" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/f:ServerTests.cs" caret="598" fromTop="14" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/f:ServerTests.cs" caret="890" fromTop="21" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Server/f:Server.cs" caret="1368" fromTop="29" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/d:Dummy Data/f:Vmta.txt" caret="166" fromTop="3" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/f:ServerTests.cs" caret="1219" fromTop="32" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/f:config.dat" caret="70140" fromTop="28" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/d:Dummy Data/f:Vmtas.txt" caret="193" fromTop="4" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/d:Dummy Data/f:Vmtas.txt" caret="584" fromTop="20" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/d:Dummy Data/f:Vmtas.txt" caret="1080" fromTop="39" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/f:ServerTests.cs" caret="1749" fromTop="29" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/f:ServerTests.cs" caret="1737" fromTop="20" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Server/f:Server.cs" caret="2502" fromTop="41" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Server/f:Server.cs" caret="2442" fromTop="18" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/f:config.dat" caret="80026" fromTop="30" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Configuration/d:Parser/f:PmtaParser.cs" caret="600" fromTop="14" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Configuration/d:Parser/f:PmtaParser.cs" caret="4896" fromTop="29" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/f:ParserTests.cs" caret="6700" fromTop="21" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/f:ParserTests.cs" caret="6678" fromTop="30" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Configuration/d:Parser/f:PmtaParser.cs" caret="4505" fromTop="47" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Configuration/d:Parser/f:PmtaParser.cs" caret="2346" fromTop="23" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Configuration/d:Parser/f:PmtaParser.cs" caret="1719" fromTop="22" />
+      <File id="DE788226-0EBC-490B-A149-C92ADF91D24F/d:Configuration/d:Parser/f:PmtaParser.cs" caret="3920" fromTop="38" />
+      <File id="E21F2A1D-7140-45A6-873D-EB56488788BA/f:ParserTests.cs" caret="5905" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.7\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
